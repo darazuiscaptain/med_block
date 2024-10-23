@@ -61,13 +61,7 @@ cd server && npm run dev
 npm start
 ```
 
-Test credentials: https://gist.github.com/OmkarPh/161a812466f181c566fad21ca2576894
 
-
-<div align="center">
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg">
-  <img src="https://forthebadge.com/images/badges/made-with-javascript.svg">
-</div>
 
 
 
